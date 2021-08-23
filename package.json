@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nicholastay/passport-discord.git"
+    "url": "git+https://github.com/Navy-gif/passport-discord.git"
   },
   "keywords": [
     "passport",
@@ -15,12 +15,12 @@
     "authn",
     "identity"
   ],
-  "author": "Nicholas Tay <nexerq@gmail.com> (http://nicholastay.github.io)",
+  "author": "Original: Nicholas Tay <nexerq@gmail.com> (http://nicholastay.github.io), Fork: Navy.gif",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nicholastay/passport-discord/issues"
+    "url": "https://github.com/Navy-gif/passport-discord/issues"
   },
-  "homepage": "https://github.com/nicholastay/passport-discord#readme",
+  "homepage": "https://github.com/Navy-gif/passport-discord#readme",
   "dependencies": {
     "passport-oauth2": "^1.5.0"
   }
