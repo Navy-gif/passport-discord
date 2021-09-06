@@ -1,6 +1,6 @@
 {
   "name": "@navy.gif/passport-discord",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Passport strategy for authentication with Discord (discordapp.com)",
   "main": "lib/index.js",
   "repository": {
